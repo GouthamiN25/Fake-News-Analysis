@@ -4,7 +4,7 @@ This project focuses on detecting fake news using a combination of classical mac
 
 ## Models Used:
 
-## Logistic Regression:
+Logistic Regression:
 
 The text data was transformed into numerical form using TF-IDF vectorization, and a logistic regression model was trained.
 
