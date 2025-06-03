@@ -36,4 +36,5 @@ Precision-Recall Curves: Highlighting the precision and recall balance for each 
 Feature Importance: For the Random Forest model, the most influential features in predicting fake news were visualized.
 
 ## Conclusion:
+
 This notebook demonstrates the effectiveness of combining classical machine learning models with advanced NLP techniques for fake news detection. The BERT-tiny model particularly stands out in achieving high accuracy, showcasing the power of transformer models in NLP tasks.
