@@ -26,7 +26,7 @@ Evaluation: The model's performance was examined using precision, recall, F1-sco
 Approach: The BERT-tiny model from Hugging Face was fine-tuned for the classification task. Sentences were tokenized and encoded using the BERT tokenizer.
 Evaluation: Achieved state-of-the-art performance by evaluating the model on unseen test data with visualizations like ROC curves and precision-recall curves.
 
-## Data Visualization:
+## Data Visualization
 
 The project includes various visualization techniques:
 
@@ -35,6 +35,6 @@ ROC Curves: For assessing the trade-off between true positive and false positive
 Precision-Recall Curves: Highlighting the precision and recall balance for each model, emphasizing the BERT-tiny model's effectiveness.
 Feature Importance: For the Random Forest model, the most influential features in predicting fake news were visualized.
 
-## Conclusion:
+## Conclusion
 
 This notebook demonstrates the effectiveness of combining classical machine learning models with advanced NLP techniques for fake news detection. The BERT-tiny model particularly stands out in achieving high accuracy, showcasing the power of transformer models in NLP tasks.
