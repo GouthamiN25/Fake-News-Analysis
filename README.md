@@ -2,7 +2,7 @@
 
 This project focuses on detecting fake news using a combination of classical machine learning models and advanced Natural Language Processing (NLP) techniques. The dataset used contains news articles labeled as "Real" or "Fake," and the goal is to build models that can accurately classify these articles.
 
-## Models Used
+## Models :
 
 ## Logistic Regression
 
